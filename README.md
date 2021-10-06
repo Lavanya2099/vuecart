@@ -1,4 +1,4 @@
-# lazyloading
+# shoppingcart
 
 ## Project setup
 ```
